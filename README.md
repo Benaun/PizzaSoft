@@ -29,7 +29,7 @@
   npm install
   ```
 
-## Запуск клиента
+## Запуск клиента + сервер
   ```bash
-  npm run dev
+  npm run start
   ```
